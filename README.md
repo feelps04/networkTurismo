@@ -1,6 +1,6 @@
-# Turismo Brasil - Plataforma de Networking Profissional
+# Network Turismo - Plataforma de Networking Profissional
 
-![Turismo Brasil Logo](https://via.placeholder.com/150x150?text=TB)
+![Network Turismo Logo](https://via.placeholder.com/150x150?text=NT)
 
 ## Introdução
 
@@ -39,8 +39,8 @@ O objetivo principal é resolver o desafio da fragmentação no mercado de turis
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/feelps04/turismoBrasil.git
-   cd turismoBrasil
+   git clone https://github.com/feelps04/networkTurismo.git
+   cd networkTurismo
    ```
 
 2. Instale as dependências
@@ -70,7 +70,7 @@ npm run build
 ## Estrutura do Projeto
 
 ```
-turismoBrasil/
+networkTurismo/
 ├── public/               # Arquivos públicos estáticos
 ├── src/                  # Código fonte
 │   ├── assets/           # Recursos (imagens, fontes)
@@ -140,7 +140,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ```
 MIT License
 
-Copyright (c) 2025 Turismo Brasil
+Copyright (c) 2025 Network Turismo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -165,4 +165,4 @@ SOFTWARE.
 
 Felipe - [@feelps04](https://github.com/feelps04)
 
-Link do Projeto: [https://github.com/feelps04/turismoBrasil](https://github.com/feelps04/turismoBrasil)
+Link do Projeto: [https://github.com/feelps04/networkTurismo](https://github.com/feelps04/networkTurismo)
